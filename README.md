@@ -1,6 +1,6 @@
 # 🌍 Earth-Lens
 
-> **A cost-effective, real-time Earth observation system using publicly accessible satellite signals and open-source technologies.**
+> **A cost-effective, real-time Earth observation system using publicly accessible satellite signals and open source technologies.**
 
 ---
 
